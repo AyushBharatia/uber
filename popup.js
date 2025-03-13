@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = 'AIzaSyCbiCUNwELipaa4wKF9Rdfj8Pc3Q-V8dH8'; // Replace with your actual API key
+const GOOGLE_API_KEY = ''; // Replace with your actual API key
 const ORIGIN = { lat: 43.7489194, lon: -79.7470896 };
 const RADIUS_METERS = 750;
 
